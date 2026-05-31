@@ -13,7 +13,7 @@ const ovo = Ovo({
 });
 
 export const metadata = {
-    title: "Sajidan Portfolio - PrebuiltUI",
+    title: "Sajidan Portfolio",
     description: "Sajidan is a frontend web developer based in Tasikmalaya, Indonesia. I am a self-taught developer with 3 years of experience in multiple companies like Microsoft, Tesla and Apple.",
 };
 
