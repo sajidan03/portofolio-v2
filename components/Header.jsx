@@ -42,15 +42,13 @@ export default function Header() {
       id="top"
       className="relative mt-20 h-[calc(100vh-80px)] overflow-hidden bg-[#0b0f19] text-white"
     >
-      {/* subtle background accents */}
       <div className="absolute inset-0 bg-[radial-gradient(circle_at_top_left,rgba(59,130,246,0.08),transparent_30%)]" />
       <div className="absolute inset-0 bg-[radial-gradient(circle_at_bottom_right,rgba(255,255,255,0.04),transparent_28%)]" />
       <div className="absolute inset-0 bg-[linear-gradient(to_right,rgba(255,255,255,0.02)_1px,transparent_1px)] bg-[length:120px_120px] opacity-20" />
       <div className="absolute inset-0 bg-[linear-gradient(to_bottom,rgba(255,255,255,0.02)_1px,transparent_1px)] bg-[length:120px_120px] opacity-10" />
-
+ 
       <div className="relative z-10 mx-auto w-full max-w-[1600px] h-full px-6 sm:px-10 lg:px-14 xl:px-20 py-5 lg:py-6">
         <div className="grid h-full grid-cols-1 lg:grid-cols-[1.05fr_0.9fr_0.9fr] items-center gap-6 lg:gap-5">
-          {/* LEFT CONTENT */}
           <div className="order-2 lg:order-1 flex flex-col justify-center lg:pr-4">
             <div className="w-20 h-[5px] bg-white mb-5" />
 
