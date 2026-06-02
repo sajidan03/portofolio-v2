@@ -120,7 +120,7 @@ export default function Header() {
               </h3>
 
               <div className="flex items-center gap-4">
-                <SocialIcon href="https://facebook.com" label="Facebook">
+                {/* <SocialIcon href="https://facebook.com" label="Facebook">
                   <svg
                     xmlns="http://www.w3.org/2000/svg"
                     width="23"
@@ -130,9 +130,9 @@ export default function Header() {
                   >
                     <path d="M13 22v-8h3l1-4h-4V8c0-1.156.276-2 2-2h2V2.14C16.651 2.092 15.595 2 14.5 2 11.231 2 9 3.657 9 7.2V10H6v4h3v8z" />
                   </svg>
-                </SocialIcon>
+                </SocialIcon> */}
 
-                <SocialIcon href="https://twitter.com" label="Twitter">
+                {/* <SocialIcon href="https://twitter.com" label="Twitter">
                   <svg
                     xmlns="http://www.w3.org/2000/svg"
                     width="23"
@@ -142,7 +142,7 @@ export default function Header() {
                   >
                     <path d="M22 5.924c-.736.327-1.527.548-2.357.647a4.11 4.11 0 001.804-2.27 8.224 8.224 0 01-2.605.996A4.103 4.103 0 0015.847 4c-2.266 0-4.104 1.838-4.104 4.104 0 .322.036.636.106.937-3.41-.171-6.434-1.805-8.459-4.287a4.084 4.084 0 00-.555 2.063c0 1.423.725 2.678 1.827 3.413a4.074 4.074 0 01-1.858-.513v.052c0 1.987 1.414 3.646 3.29 4.023a4.1 4.1 0 01-1.852.07c.522 1.628 2.038 2.813 3.833 2.846A8.235 8.235 0 012 18.407 11.616 11.616 0 008.29 20.25c7.547 0 11.674-6.252 11.674-11.674 0-.178-.004-.355-.012-.531A8.33 8.33 0 0022 5.924z" />
                   </svg>
-                </SocialIcon>
+                </SocialIcon> */}
 
                 <SocialIcon
                   href="https://instagram.com/sajidanrfn"
@@ -160,7 +160,7 @@ export default function Header() {
                 </SocialIcon>
 
                 <SocialIcon
-                  href="https://linkedin.com/in/sajidanrfn"
+                  href="https://www.linkedin.com/in/muhammad-sajidan-rifansyah-518b8b32a/"
                   label="LinkedIn"
                 >
                   <svg
@@ -174,7 +174,7 @@ export default function Header() {
                   </svg>
                 </SocialIcon>
 
-                <SocialIcon href="https://youtube.com" label="YouTube">
+                {/* <SocialIcon href="https://youtube.com" label="YouTube">
                   <svg
                     xmlns="http://www.w3.org/2000/svg"
                     width="25"
@@ -184,7 +184,7 @@ export default function Header() {
                   >
                     <path d="M23.498 6.186a2.997 2.997 0 00-2.11-2.12C19.505 3.5 12 3.5 12 3.5s-7.505 0-9.388.566a2.997 2.997 0 00-2.11 2.12C0 8.078 0 12 0 12s0 3.922.502 5.814a2.997 2.997 0 002.11 2.12C4.495 20.5 12 20.5 12 20.5s7.505 0 9.388-.566a2.997 2.997 0 002.11-2.12C24 15.922 24 12 24 12s0-3.922-.502-5.814zM9.75 15.568V8.432L15.818 12 9.75 15.568z" />
                   </svg>
-                </SocialIcon>
+                </SocialIcon> */}
 
                 <SocialIcon
                   href="https://github.com/sajidan03"
