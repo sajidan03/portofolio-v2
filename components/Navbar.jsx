@@ -122,7 +122,14 @@ export default function Navbar() {
               About me
             </a>
           </li>
-
+              <li>
+            <a
+              className="hover:text-gray-500 dark:hover:text-gray-300 transition"
+              href="#achievements"
+            >
+              Achievements
+            </a>
+          </li>
           <li>
             <a
               className="hover:text-gray-500 dark:hover:text-gray-300 transition"
@@ -138,15 +145,6 @@ export default function Navbar() {
               href="#work"
             >
               Projects
-            </a>
-          </li>
-
-          <li>
-            <a
-              className="hover:text-gray-500 dark:hover:text-gray-300 transition"
-              href="#contact"
-            >
-              Contact me
             </a>
           </li>
         </ul>
