@@ -1,29 +1,17 @@
 export default function Work() {
     const work = [
         {
-            name: 'Frontend project',
+            name: 'Smart parking IoT system',
             icon: '/assets/work-1.png',
-            description: 'Web Design',
-            link: '',
+            description: 'Web development for smart parking IoT system',
+            link: 'smart-parking.my.id',
         },
         {
-            name: 'Geo based app',
+            name: 'Kaswarga',
             icon: '/assets/work-2.png',
-            description: 'mobile app',
+            description: 'website for neighborhood association',
             link: '',
         },
-        {
-            name: 'Photography site',
-            icon: '/assets/work-3.png',
-            description: 'Web Design',
-            link: '',
-        },
-        {
-            name: 'UI/UX designing',
-            icon: '/assets/work-4.png',
-            description: 'UI/UX Design',
-            link: '',
-        }
     ];
     return (
         <div id="work" className="w-full px-[12%] py-10 scroll-mt-20">
