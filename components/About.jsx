@@ -57,7 +57,7 @@ export default function About() {
     {
       name: "Languages",
       icon: Code2,
-      description: "HTML, CSS, JavaScript, React Js, C++, Python, C#, Kotlin",
+      description: "JavaScript, React Js, C++, Python, C#, Kotlin",
     },
     {
       name: "Frameworks",
